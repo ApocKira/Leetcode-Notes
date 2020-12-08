@@ -14,3 +14,6 @@ Use two pointers control the one-pass to swap the value in the array.
 	swap nums[i] with nums[p0]
 	
 	if p0 < p1: swap nums[i] with nums[p1]
+## Complexity
+* Time Complexity: O(n)
+* Space Complexity: O(1)
